@@ -6,6 +6,7 @@ authors = ["Tristan Sargent"]
 readme = "README.md"
 
 [tool.poetry.scripts]
+todo = "todo_cli.todo:app"
 
 
 [tool.poetry.dependencies]

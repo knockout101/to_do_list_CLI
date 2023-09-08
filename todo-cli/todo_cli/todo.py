@@ -23,8 +23,6 @@ def save_as_ico(file_path, name):
 def get_img(file_path):
     return Image.open(file_path)
 
-if __name__ == "__main__":
-    app()
 
 
 
